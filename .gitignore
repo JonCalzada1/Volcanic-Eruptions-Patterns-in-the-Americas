@@ -1,8 +1,0 @@
-# Jupyter notebook autosaves
-.ipynb_checkpoints/
-
-# Jupyter .py script autosaves
-*checkpoint.py
-
-# Mac system files
-.DS_Store
