@@ -21,9 +21,21 @@ Regions analyzed include:
 - [Volcanic_Eruption_Analysis.ipynb](Volcanic_Eruption_Analysis.ipynb) – The main notebook with full analysis and visuals.
 - [volcano_analysis.py](volcano_analysis.py) – Utility functions for plotting and cleaning.
 - [volcano_analysis_class.py](volcano_analysis_class.py) – Class-based methods for analysis.
-- [Data Folder](data/) – Contains raw volcanic data from the Global Volcanism Program.
 
-## Key Insights
+## Data
+
+This project uses raw volcanic data sourced from the Smithsonian Global Volcanism Program. The following CSV files are included in the repository:
+
+GVP_Volcano_List_Northern_America.csv – Volcano metadata for Northern America
+
+GVP_Volcano_List_Southern_America.csv – Volcano metadata for Southern America
+
+GVP_Eruption_Results_Northern_America.csv – Historical eruption data for Northern America
+
+GVP_Eruption_Results_Southern_America.csv – Historical eruption data for Southern America
+  
+
+## Key Insights:
 
 Stratovolcanoes dominate both continents, particularly in the Andes and Cascade regions.
 
